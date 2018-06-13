@@ -1,1 +1,1 @@
-readme
+This is an empty file.
